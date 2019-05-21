@@ -19,3 +19,4 @@ for filename in filenames:
 
 - currently changing things on terminal with nano filename.txt
 - adding more stuff in here for the fun of it
+- adding stuff on git for git pull test

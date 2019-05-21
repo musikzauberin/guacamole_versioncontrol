@@ -60,6 +60,12 @@ git checkout eb4ec72761792f83e0eabd798e9d97a8984a189d
 git checkout master 
 # fixes the problem and your HEAD is now attached muhahaha
 
+git diff HEAD~1 README.md 
+# show differences between commit-1 and current state of file
+git diff HEAD~5 README.md 
+# show differences between five previous commit and current state of file
+git diff HEAD~5
+# show differences between five previous commit and master
 
 
 

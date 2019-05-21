@@ -16,3 +16,5 @@ for filename in filenames:
   print(filename)
   # this is kinda cool
 ```
+
+- currently changing things on terminal with nano filename.txt

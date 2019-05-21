@@ -67,6 +67,11 @@ git diff HEAD~5 README.md
 git diff HEAD~5
 # show differences between five previous commit and master
 
+# To tell git to ignore files
+nano .gitignore
+# in the .gitignore file
+*.tmp
+git_version_control_summary.txt
 
 
 

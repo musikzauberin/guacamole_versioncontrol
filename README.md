@@ -6,10 +6,12 @@ An example repository for introductory **git** training.
   - cursor auto-jumps as well hmmm, useful in python 
 - and links added like this [the awesome bio-it](http://bio-it.embl.de)
 
-`code can be highlighted with backticks "`" `
+`code can be highlighted with backticks`
+
+``` ``two backticks`` ``` produces ``two backticks`` 
 
 ```Python 
-# ```Python this tells the markdown to format this as python code wow =O
+# (```Python) this tells the markdown to format this as python code wow =O
 for filename in filenames:
   print(filename)
   # this is kinda cool
